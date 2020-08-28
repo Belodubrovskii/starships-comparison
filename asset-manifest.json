@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/starships-comparison/static/css/main.7d0ba2dd.chunk.css",
+    "main.css": "/starships-comparison/static/css/main.8325ecad.chunk.css",
     "main.js": "/starships-comparison/static/js/main.4267fd3b.chunk.js",
     "main.js.map": "/starships-comparison/static/js/main.4267fd3b.chunk.js.map",
     "runtime-main.js": "/starships-comparison/static/js/runtime-main.252269f3.js",
@@ -8,9 +8,9 @@
     "static/js/2.1a314609.chunk.js": "/starships-comparison/static/js/2.1a314609.chunk.js",
     "static/js/2.1a314609.chunk.js.map": "/starships-comparison/static/js/2.1a314609.chunk.js.map",
     "index.html": "/starships-comparison/index.html",
-    "precache-manifest.18afc9ba517629f356a2ee3e570d286f.js": "/starships-comparison/precache-manifest.18afc9ba517629f356a2ee3e570d286f.js",
+    "precache-manifest.8cba69281b6340edfabd79ccc8d91de4.js": "/starships-comparison/precache-manifest.8cba69281b6340edfabd79ccc8d91de4.js",
     "service-worker.js": "/starships-comparison/service-worker.js",
-    "static/css/main.7d0ba2dd.chunk.css.map": "/starships-comparison/static/css/main.7d0ba2dd.chunk.css.map",
+    "static/css/main.8325ecad.chunk.css.map": "/starships-comparison/static/css/main.8325ecad.chunk.css.map",
     "static/js/2.1a314609.chunk.js.LICENSE.txt": "/starships-comparison/static/js/2.1a314609.chunk.js.LICENSE.txt",
     "static/media/10.png": "/starships-comparison/static/media/10.0bed5df3.png",
     "static/media/12.png": "/starships-comparison/static/media/12.718fe272.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.252269f3.js",
     "static/js/2.1a314609.chunk.js",
-    "static/css/main.7d0ba2dd.chunk.css",
+    "static/css/main.8325ecad.chunk.css",
     "static/js/main.4267fd3b.chunk.js"
   ]
 }
