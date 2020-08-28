@@ -1,3 +1,3 @@
 export const apiOptions = {
-    baseUrl: 'http://swapi.dev/api/starships/',
+    baseUrl: 'https://swapi.dev/api/starships/',
   }
