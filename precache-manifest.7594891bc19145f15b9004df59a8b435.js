@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01b99947580b53b5a1e079edcceb20cb",
+    "revision": "84832d0b71a91f8837081b2d714015c1",
     "url": "/starships-comparison/index.html"
   },
   {
-    "revision": "4a7f6d74fde95c22d447",
+    "revision": "e6312b66ddf5d57e100f",
     "url": "/starships-comparison/static/css/main.8325ecad.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starships-comparison/static/js/2.1a314609.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a7f6d74fde95c22d447",
-    "url": "/starships-comparison/static/js/main.4267fd3b.chunk.js"
+    "revision": "e6312b66ddf5d57e100f",
+    "url": "/starships-comparison/static/js/main.c615f46f.chunk.js"
   },
   {
     "revision": "e3be614bc8f113dbe323",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starships-comparison/static/media/10.0bed5df3.png"
   },
   {
-    "revision": "718fe2727e57f4d22bbe0c219b7712d6",
-    "url": "/starships-comparison/static/media/12.718fe272.png"
+    "revision": "e53a6a31c2adf87c1c4ce05abc9d1918",
+    "url": "/starships-comparison/static/media/12.e53a6a31.png"
   },
   {
     "revision": "cec3feddea43972a80e16b13bf37555a",
