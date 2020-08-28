@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a11318e4decdc8896a35e1ff435840a0",
+    "revision": "84284e41d667748a65d87c9cc0b80af6",
     "url": "/starships-comparison/index.html"
   },
   {
-    "revision": "dd1c75411dcfc549720a",
+    "revision": "1fd0bf974987202c5683",
     "url": "/starships-comparison/static/css/main.7d0ba2dd.chunk.css"
   },
   {
-    "revision": "a0c2bd1a59a82552525f",
-    "url": "/starships-comparison/static/js/2.2d8403da.chunk.js"
+    "revision": "027ae36161182b8bb2b5",
+    "url": "/starships-comparison/static/js/2.1a314609.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/starships-comparison/static/js/2.2d8403da.chunk.js.LICENSE.txt"
+    "url": "/starships-comparison/static/js/2.1a314609.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd1c75411dcfc549720a",
-    "url": "/starships-comparison/static/js/main.cb8d518a.chunk.js"
+    "revision": "1fd0bf974987202c5683",
+    "url": "/starships-comparison/static/js/main.1813f3c2.chunk.js"
   },
   {
-    "revision": "cd2ac1f61ef9a7ccbba8",
-    "url": "/starships-comparison/static/js/runtime-main.6b3f870b.js"
+    "revision": "e3be614bc8f113dbe323",
+    "url": "/starships-comparison/static/js/runtime-main.252269f3.js"
   },
   {
     "revision": "0bed5df3ee4932889773d4425ff5f77c",

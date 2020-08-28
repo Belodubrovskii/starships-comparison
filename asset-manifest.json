@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/starships-comparison/static/css/main.7d0ba2dd.chunk.css",
-    "main.js": "/starships-comparison/static/js/main.cb8d518a.chunk.js",
-    "main.js.map": "/starships-comparison/static/js/main.cb8d518a.chunk.js.map",
-    "runtime-main.js": "/starships-comparison/static/js/runtime-main.6b3f870b.js",
-    "runtime-main.js.map": "/starships-comparison/static/js/runtime-main.6b3f870b.js.map",
-    "static/js/2.2d8403da.chunk.js": "/starships-comparison/static/js/2.2d8403da.chunk.js",
-    "static/js/2.2d8403da.chunk.js.map": "/starships-comparison/static/js/2.2d8403da.chunk.js.map",
+    "main.js": "/starships-comparison/static/js/main.1813f3c2.chunk.js",
+    "main.js.map": "/starships-comparison/static/js/main.1813f3c2.chunk.js.map",
+    "runtime-main.js": "/starships-comparison/static/js/runtime-main.252269f3.js",
+    "runtime-main.js.map": "/starships-comparison/static/js/runtime-main.252269f3.js.map",
+    "static/js/2.1a314609.chunk.js": "/starships-comparison/static/js/2.1a314609.chunk.js",
+    "static/js/2.1a314609.chunk.js.map": "/starships-comparison/static/js/2.1a314609.chunk.js.map",
     "index.html": "/starships-comparison/index.html",
-    "precache-manifest.74ef495d24943c49a1d91a1c2ce3af09.js": "/starships-comparison/precache-manifest.74ef495d24943c49a1d91a1c2ce3af09.js",
+    "precache-manifest.621f4c4ea6a30bcb69e9012f1de30240.js": "/starships-comparison/precache-manifest.621f4c4ea6a30bcb69e9012f1de30240.js",
     "service-worker.js": "/starships-comparison/service-worker.js",
     "static/css/main.7d0ba2dd.chunk.css.map": "/starships-comparison/static/css/main.7d0ba2dd.chunk.css.map",
-    "static/js/2.2d8403da.chunk.js.LICENSE.txt": "/starships-comparison/static/js/2.2d8403da.chunk.js.LICENSE.txt",
+    "static/js/2.1a314609.chunk.js.LICENSE.txt": "/starships-comparison/static/js/2.1a314609.chunk.js.LICENSE.txt",
     "static/media/10.png": "/starships-comparison/static/media/10.0bed5df3.png",
     "static/media/12.png": "/starships-comparison/static/media/12.718fe272.png",
     "static/media/22.png": "/starships-comparison/static/media/22.cec3fedd.png",
     "static/media/Header.css": "/starships-comparison/static/media/Star_Wars_Yellow_Logo.af84c44c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b3f870b.js",
-    "static/js/2.2d8403da.chunk.js",
+    "static/js/runtime-main.252269f3.js",
+    "static/js/2.1a314609.chunk.js",
     "static/css/main.7d0ba2dd.chunk.css",
-    "static/js/main.cb8d518a.chunk.js"
+    "static/js/main.1813f3c2.chunk.js"
   ]
 }
